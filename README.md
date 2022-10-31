@@ -7,8 +7,9 @@ ___
 2. [Overview](#overview)
 3. [Real World Problem](#real-world-problem)
 4. [Our Solution](#our-solution)
-3. [Team](#team)
-4. [Links](#links)
+5. [Team](#team)
+6. [Supervisors](#supervisors)
+7. [Links](#links)
 
 ## Introduction
 <p align="center">
@@ -51,6 +52,13 @@ When we talk about generic products, there are lots of smart dispensers that can
 But our product has planned to go one level ahead by introducing a way to select medicine without involving humans.Our basic plan is to test the mechanism using a ward of a hospital and after that we can scale up the project to serve more than that many patients.
 
 ## Team
+- E/18/030, Sathsarani Aththanayaka, <e18030@eng.pdn.ac.lk>
+- E/18/036, Mahela Bandara, <e18036@eng.pdn.ac.lk>
+- E/18/150, Yojith Sdaruwan, <e18150@eng.pdn.ac.lk>
+
+## Supervisors
+- Dr. Isuru Nawinne, <>
+- Dr. Mahanama Wickramasinghe, <>
 
 ## Links
 

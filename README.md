@@ -62,7 +62,7 @@ But our product has planned to go one level ahead by introducing a way to select
 
 ## Links
 - [Project Repository](https://github.com/cepdnaclk/e18-3yp-Smart-Medicine-Dispenser)
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
+- [Project Page](https://cepdnaclk.github.io/e18-3yp-Smart-Medicine-Dispenser)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 

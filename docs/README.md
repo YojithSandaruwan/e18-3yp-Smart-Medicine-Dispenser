@@ -9,20 +9,18 @@ title: Project Template
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Smart Medicine Dispenser
 
 ---
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  e18030, Sathsarani Aththanayaka, [email](e18030@eng.pdn.ac.lk)
+-  e18036, Mahela Bandara, [email](e18036@eng.pdn.ac.lk)
+-  e18150, Yojith Sadaruwan, [email](e18150@eng.pdn.ac.lk)
 
 <!-- Image (photo/drawing of the final hardware) should be here -->
 
-<!-- This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/) -->
 
-<!-- ![Sample Image](./images/sample.png) -->
 
 #### Table of Contents
 1. [Introduction](#introduction)
@@ -34,6 +32,10 @@ title: Project Template
 7. [Links](#links)
 
 ## Introduction
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/73664068/198972028-0f39e90b-a9e1-41f7-8ffb-b7b43dda7966.png" alt="Taking picture of food">
+</p>
 
 Description of the real world problem and solution, impact
 

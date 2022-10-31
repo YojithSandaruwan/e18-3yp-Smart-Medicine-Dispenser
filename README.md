@@ -57,8 +57,8 @@ But our product has planned to go one level ahead by introducing a way to select
 - E/18/150, Yojith Sdaruwan, <e18150@eng.pdn.ac.lk>
 
 ## Supervisors
-- Dr. Isuru Nawinne, <>
-- Dr. Mahanama Wickramasinghe, <>
+- Dr. Isuru Nawinne, <isurunawinne@eng.pdn.ac.lk>
+- Dr. Mahanama Wickramasinghe, <mahanamaw@eng.pdn.ac.lk>
 
 ## Links
 

@@ -72,7 +72,11 @@ When it comes to softwares, there is a backend that contains every detail of eac
 
 ## Solution Architecture
 
-High level diagram + description
+![tempsnip](https://user-images.githubusercontent.com/73664068/199351698-f6015f65-2c1a-4539-a31f-022f93f913dc.png)
+
+
+![1](https://user-images.githubusercontent.com/73664068/199351735-4c08bf61-293b-4f43-899e-b92a5c74b33d.png)
+
 
 ## Hardware and Software Designs
 

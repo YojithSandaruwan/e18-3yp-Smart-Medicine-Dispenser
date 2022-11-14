@@ -25,11 +25,12 @@ title: Smart Medicine Dispenser
 #### Table of Contents
 1. [Introduction](#introduction)
 2. [Solution Architecture](#solution-architecture )
-3. [Hardware & Software Designs](#hardware-and-software-designs)
-4. [Testing](#testing)
-5. [Detailed budget](#detailed-budget)
-6. [Conclusion](#conclusion)
-7. [Links](#links)
+3. [Data flow](#data-flow)
+4. [Hardware & Software Designs](#hardware-and-software-designs)
+5. [Testing](#testing)
+6. [Detailed budget](#detailed-budget)
+7. [Conclusion](#conclusion)
+8. [Links](#links)
 
 ## Introduction
 
@@ -71,12 +72,14 @@ When it comes to softwares, there is a backend that contains every detail of eac
 
 
 ## Solution Architecture
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/73664068/199351698-f6015f65-2c1a-4539-a31f-022f93f913dc.png" alt="Taking picture of food">
+</p>
 
-![tempsnip](https://user-images.githubusercontent.com/73664068/199351698-f6015f65-2c1a-4539-a31f-022f93f913dc.png)
-
-
-![1](https://user-images.githubusercontent.com/73664068/199351735-4c08bf61-293b-4f43-899e-b92a5c74b33d.png)
-
+## Data flow
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/73664068/199351735-4c08bf61-293b-4f43-899e-b92a5c74b33d.png" alt="Taking picture of food">
+</p>
 
 ## Hardware and Software Designs
 
